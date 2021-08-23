@@ -13,12 +13,10 @@
 - 💜 crazy about rgb(225, 225, 255)
 - 👾 summoner of LoL (actually, like all games)
 
-![Metrics](https://metrics.lecoq.io/pup-paw?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
-
 #### Connect
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pup-paw)](https://github.com/pup-paw) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wldusdl0310@gmail.com)](mailto:wldusdl0310@gmail.com) [![Instagram](https://img.shields.io/badge/J._.Y99-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/_u/j._.y99)](https://instagram.com/_u/j._.y99) [![Discord](https://img.shields.io/badge/GRR99/1717-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pup-paw&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/pup-paw?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
 
 #### Career
 | Type     | Date                   | Contents                                                | Orgnization       | Process    |
