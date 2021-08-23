@@ -19,19 +19,19 @@
 ### 🎖 Career 🎖
 | Type     | Date                   | Contents                                                | Orgnization       | Process    |
 |----------|------------------------|---------------------------------------------------------|-------------------|------------|
-| Project  | 2019/11/03  ~2019/11/16 | self-introduction web page creation                     | College classwork | finish     |
-| Project  | 2019/12/06  ~2019/12/25 | create an introduction web page of my area of interest  | College classwork | finish     |
-| Project  | 2020/04/26  ~2020/05/06 | creating a mobile web page promoting Korean Wave        | College classwork | finish     |
-| Project  | 2020/05/31  ~2020/06/28 | create dynamic web apps                                 | College classwork | finish     |
-| Activity | 2020/08/21  ~2021/02/26 | junior smart car engineering class mentoring            | Hyundai Kefico    | finish     |
-| Project  | 2021/01/13  ~2021/01/26 | calculator production using Java Swing                  | Personal          | finish     |
+| Project  | 2019/11/03  ~ 2019/11/16 | self-introduction web page creation                     | College classwork | finish     |
+| Project  | 2019/12/06  ~ 2019/12/25 | create an introduction web page of my area of interest  | College classwork | finish     |
+| Project  | 2020/04/26  ~ 2020/05/06 | creating a mobile web page promoting Korean Wave        | College classwork | finish     |
+| Project  | 2020/05/31  ~ 2020/06/28 | create dynamic web apps                                 | College classwork | finish     |
+| Activity | 2020/08/21  ~ 2021/02/26 | junior smart car engineering class mentoring            | Hyundai Kefico    | finish     |
+| Project  | 2021/01/13  ~ 2021/01/26 | calculator production using Java Swing                  | Personal          | finish     |
 | Study    | 2021/01/20  ~           | momentum creation using Vanilla JS                      | Nomad coders      | in process |
 | Project  | 2021/03/18  ~           | YOUTUBE clone coding                                    | Personal          | in process |
-| Project  | 2021/04/01  ~2021/06/11 | CGV clone coding team project using JSP                 | College classwork | finish     |
-| Project  | 2021/04/29  ~2021/05/20 | 2D game production using Unity3D Engine (Thud)          | College classwork | finish     |
-| Project  | 2021/05/26  ~2021/06/13 | 3D game production using Unity3D Engine (Run away)      | College classwork | finish     |
-| Project  | 2021/06/16  ~2021/06/25 | tourism data utilization contest proposal team project  | Korea Tourism     | finish     |
-| Project  | 2021/07/01  ~2021/07/28 | 3D RPG production using Unity3D Engine (Rocket Raccoon) | KH smart campus   | finish     |
+| Project  | 2021/04/01  ~ 2021/06/11 | CGV clone coding team project using JSP                 | College classwork | finish     |
+| Project  | 2021/04/29  ~ 2021/05/20 | 2D game production using Unity3D Engine (Thud)          | College classwork | finish     |
+| Project  | 2021/05/26  ~ 2021/06/13 | 3D game production using Unity3D Engine (Run away)      | College classwork | finish     |
+| Project  | 2021/06/16  ~ 2021/06/25 | tourism data utilization contest proposal team project  | Korea Tourism     | finish     |
+| Project  | 2021/07/01  ~ 2021/07/28 | 3D RPG production using Unity3D Engine (Rocket Raccoon) | KH smart campus   | finish     |
 | Study    | 2021/08/11  ~           | Python free lecture (Basic) by 나도코딩                 | Inflearn          | in process |
 
 #### ♥︎ Programming Languages ♥︎
