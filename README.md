@@ -1,6 +1,6 @@
 ### 🐾 PUP-PAW 🐾
 
-👋 Hi! I am a student who wants to become a full-stack developer./n
+👋 Hi! I am a student who wants to become a full-stack developer.  
 ✍️ So, I'm going to record my studies here to make my dream come true.
 
 ![Metrics](https://metrics.lecoq.io/pup-paw?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
