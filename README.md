@@ -34,7 +34,7 @@
 | Project  | 2021/07/01  ~ 2021/07/28 | 3D RPG production using Unity3D Engine (Rocket Raccoon) | KH smart campus   | done    |
 | Study    | 2021/08/11  ~ 2021/08/26 | Python free lecture (Basic) by 나도코딩                   | Inflearn          | done    |
 | Study    | 2021/08/26  ~ 2021/08/27 | Python free lecture (Utilization1) by 나도코딩            | Inflearn          | done    |
-| Study    | 2021/08/27  ~ 2021/08/31 | Python free lecture (Utilization2) by 나도코딩            | Inflearn          | done.   |
+| Study    | 2021/08/27  ~ 2021/08/31 | Python free lecture (Utilization2) by 나도코딩            | Inflearn          | done    |
 | Study    | 2021/08/27  ~ | Baekjoon algoritm - Python | BAEKJOON | proceeding |
 #### ♥︎ Programming Languages ♥︎
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
