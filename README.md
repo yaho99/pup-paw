@@ -54,8 +54,10 @@
 #### ♥︎ Version Control ♥︎
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<hr>
+<hr> 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpup-paw%2Fhit-counter&count_bg=%23000000&title_bg=%23DAABFF&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **pup-paw/pup-paw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
