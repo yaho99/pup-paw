@@ -25,8 +25,8 @@
 | Project  | 2020/05/31  ~ 2020/06/28 | create dynamic web apps                                 | College classwork | done    |
 | Activity | 2020/08/21  ~ 2021/02/26 | junior smart car engineering class mentoring            | Hyundai Kefico    | done    |
 | Project  | 2021/01/13  ~ 2021/01/26 | calculator production using Java Swing                  | Personal          | done    |
-| Study    | 2021/01/20  ~           | momentum creation using Vanilla JS                      | Nomad coders      | pause  |
-| Project  | 2021/03/18  ~           | YOUTUBE clone coding                                    | Personal          | pause  |
+| Study    | 2021/01/20  ~            | momentum creation using Vanilla JS                      | Nomad coders      | pause   |
+| Project  | 2021/03/18  ~            | YOUTUBE clone coding                                    | Personal          | pause   |
 | Project  | 2021/04/01  ~ 2021/06/11 | CGV clone coding team project using JSP                 | College classwork | done    |
 | Project  | 2021/04/29  ~ 2021/05/20 | 2D game production using Unity3D Engine (Thud)          | College classwork | done    |
 | Project  | 2021/05/26  ~ 2021/06/13 | 3D game production using Unity3D Engine (Run away)      | College classwork | done    |
@@ -35,8 +35,9 @@
 | Study    | 2021/08/11  ~ 2021/08/26 | Python free lecture (Basic) by 나도코딩                   | Inflearn          | done    |
 | Study    | 2021/08/26  ~ 2021/08/27 | Python free lecture (Utilization1) by 나도코딩            | Inflearn          | done    |
 | Study    | 2021/08/27  ~ 2021/08/31 | Python free lecture (Utilization2) by 나도코딩            | Inflearn          | done    |
-| Study    | 2021/09/03  ~           | Python free lecture (Utilization3) by 나도코딩            | Inflearn          | pause    |  
-| Study    | 2021/09/06  ~            | Swift basic for iOS programming by 야곰           | Boost Course        | proceeding    |
+| Study    | 2021/09/03  ~            | Python free lecture (Utilization3) by 나도코딩            | Inflearn          | pause   |  
+| Study    | 2021/09/06  ~            | Swift basic for iOS programming by 야곰                  | Boost Course      | pause   |
+| Activity | 2021/09/06  ~            | Participated in J2KB as the 5th                         | J2KB             | proceeding|
 #### ♥︎ Programming Languages ♥︎
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
