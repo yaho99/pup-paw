@@ -1,10 +1,5 @@
 ### 🐾 PUP-PAW 🐾
 
-👋 Hi! I am a student who wants to become a full-stack developer.  
-✍️ So, I'm going to record my studies here to make my dream come true.
-
-### 👀 I AM 👀
-
 🤓 majoring in computer science  
 💻 wanna be a full-stack developer  
 <!--💡 self-proclaimed "idea bank"  
